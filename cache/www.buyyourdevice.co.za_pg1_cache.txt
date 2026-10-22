@@ -1,0 +1,1128 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
+
+
+
+
+<link crossorigin="" href="https://cdn.shopify.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.shopifycdn.com" rel="preconnect"/>
+<link href="https://monorail-edge.shopifysvc.com" rel="preconnect"/><link as="style" href="//www.buyyourdevice.co.za/cdn/shop/t/6/assets/theme.css?v=108491749175682218741634704544" rel="preload"/>
+<link as="font" crossorigin="" href="" rel="preload" type="font/woff2"/>
+<link as="font" crossorigin="" href="" rel="preload" type="font/woff2"/>
+<link as="font" crossorigin="" href="" rel="preload" type="font/woff2"/>
+<link as="script" href="//www.buyyourdevice.co.za/cdn/shop/t/6/assets/theme.js?v=43019564041095109801634616157" rel="preload"/>
+<link as="script" href="//www.buyyourdevice.co.za/cdn/shop/t/6/assets/lazysizes.js?v=63098554868324070131634616155" rel="preload"/><link href="https://www.buyyourdevice.co.za/collections/all" rel="canonical"/><title>Products
+– BuyYourDevice</title><!-- /snippets/social-meta-tags.liquid -->
+
+
+
+
+
+
+
+
+
+
+
+<link href="//www.buyyourdevice.co.za/cdn/shop/t/6/assets/theme.css?v=108491749175682218741634704544" media="print" onload="this.media='all';onLoadStylesheet()" rel="stylesheet" type="text/css"/>
+
+
+
+
+
+<link href="/collections/all.atom" rel="alternate" title="Feed" type="application/atom+xml"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.
+  &lt;script src=" https:="" rel="stylesheet"/>
+<!-- BEGIN app block: shopify://apps/helium-customer-fields/blocks/app-embed/bab58598-3e6a-4377-aaaa-97189b15f131 -->
+
+<!-- BEGIN app snippet: patch-registration-links -->
+<!-- END app snippet -->
+<!-- BEGIN app snippet: patch-login-grecaptcha-conflict -->
+<!-- END app snippet -->
+<!-- BEGIN app snippet: embed-data -->
+
+<!-- END app snippet -->
+<!-- BEGIN app snippet: initialize-forms -->
+
+<!-- END app snippet -->
+<!-- BEGIN app snippet: theme-data -->
+<!-- END app snippet -->
+<!-- BEGIN app snippet: form-preload-style -->
+<!-- END app snippet -->
+<!-- BEGIN app snippet: inject-edit-link -->
+<!-- END app snippet -->
+<!-- BEGIN app snippet: language -->
+<!-- END app snippet -->
+<!-- BEGIN app snippet: developer-tools -->
+
+<!-- END app snippet -->
+<!-- END app block --><link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch"/>
+
+
+
+
+
+
+</head>
+<body class="template-collection">
+<a class="in-page-link visually-hidden skip-link" href="#MainContent">Skip to content</a><div aria-labelledby="CartPopupHeading" aria-modal="true" class="cart-popup-wrapper cart-popup-wrapper--hidden critical-hidden" data-cart-popup-wrapper="" role="dialog">
+<div class="cart-popup" data-cart-popup="" tabindex="-1">
+<div class="cart-popup__header">
+<h2 class="cart-popup__heading" id="CartPopupHeading">Just added to your cart</h2>
+<button aria-label="Close" class="cart-popup__close" data-cart-popup-close=""><svg aria-hidden="true" class="icon icon-close" focusable="false" role="presentation" viewbox="0 0 40 40"><path class="layer" d="M23.868 20.015L39.117 4.78c1.11-1.108 1.11-2.77 0-3.877-1.109-1.108-2.773-1.108-3.882 0L19.986 16.137 4.737.904C3.628-.204 1.965-.204.856.904c-1.11 1.108-1.11 2.77 0 3.877l15.249 15.234L.855 35.248c-1.108 1.108-1.108 2.77 0 3.877.555.554 1.248.831 1.942.831s1.386-.277 1.94-.83l15.25-15.234 15.248 15.233c.555.554 1.248.831 1.941.831s1.387-.277 1.941-.83c1.11-1.109 1.11-2.77 0-3.878L23.868 20.015z"></path></svg></button>
+</div>
+<div class="cart-popup-item">
+<div class="cart-popup-item__image-wrapper hide" data-cart-popup-image-wrapper="" data-image-loading-animation=""></div>
+<div class="cart-popup-item__description">
+<div>
+<h3 class="cart-popup-item__title" data-cart-popup-title=""></h3>
+<ul aria-label="Product details" class="product-details" data-cart-popup-product-details=""></ul>
+</div>
+<div class="cart-popup-item__quantity">
+<span class="visually-hidden" data-cart-popup-quantity-label=""></span>
+<span aria-hidden="true">Qty:</span>
+<span aria-hidden="true" data-cart-popup-quantity=""></span>
+</div>
+</div>
+</div>
+<a class="cart-popup__cta-link btn btn--secondary-accent" href="/cart">
+      View cart (<span data-cart-popup-cart-quantity=""></span>)
+    </a>
+<div class="cart-popup__dismiss">
+<button class="cart-popup__dismiss-button text-link text-link--accent" data-cart-popup-dismiss="">
+        Continue shopping
+      </button>
+</div>
+</div>
+</div>
+<div class="shopify-section" id="shopify-section-header">
+
+<div aria-label="Search" aria-modal="true" class="search-bar drawer drawer--top critical-hidden" data-predictive-search-drawer="" id="SearchDrawer" role="dialog">
+<div class="search-bar__interior">
+<div class="search-form__container" data-search-form-container="">
+<form action="/search" class="search-form search-bar__form" method="get" role="search">
+<div class="search-form__input-wrapper">
+<input aria-autocomplete="list" aria-expanded="false" aria-haspopup="listbox" aria-label="Search" aria-owns="predictive-search-results" class="search-form__input search-bar__input" data-base-url="/search" data-predictive-search-drawer-input="" name="q" placeholder="Search" role="combobox" type="text"/>
+<input aria-hidden="true" name="options[prefix]" type="hidden" value="last"/>
+<div class="predictive-search-wrapper predictive-search-wrapper--drawer" data-predictive-search-mount="drawer"></div>
+</div>
+<button class="search-bar__submit search-form__submit" data-search-form-submit="" type="submit">
+<svg aria-hidden="true" class="icon icon-search" focusable="false" role="presentation" viewbox="0 0 37 40"><path d="M35.6 36l-9.8-9.8c4.1-5.4 3.6-13.2-1.3-18.1-5.4-5.4-14.2-5.4-19.7 0-5.4 5.4-5.4 14.2 0 19.7 2.6 2.6 6.1 4.1 9.8 4.1 3 0 5.9-1 8.3-2.8l9.8 9.8c.4.4.9.6 1.4.6s1-.2 1.4-.6c.9-.9.9-2.1.1-2.9zm-20.9-8.2c-2.6 0-5.1-1-7-2.9-3.9-3.9-3.9-10.1 0-14C9.6 9 12.2 8 14.7 8s5.1 1 7 2.9c3.9 3.9 3.9 10.1 0 14-1.9 1.9-4.4 2.9-7 2.9z"></path></svg>
+<span class="icon__fallback-text">Submit</span>
+</button>
+</form>
+<div class="search-bar__actions">
+<button class="btn--link search-bar__close js-drawer-close" type="button">
+<svg aria-hidden="true" class="icon icon-close" focusable="false" role="presentation" viewbox="0 0 40 40"><path class="layer" d="M23.868 20.015L39.117 4.78c1.11-1.108 1.11-2.77 0-3.877-1.109-1.108-2.773-1.108-3.882 0L19.986 16.137 4.737.904C3.628-.204 1.965-.204.856.904c-1.11 1.108-1.11 2.77 0 3.877l15.249 15.234L.855 35.248c-1.108 1.108-1.108 2.77 0 3.877.555.554 1.248.831 1.942.831s1.386-.277 1.94-.83l15.25-15.234 15.248 15.233c.555.554 1.248.831 1.941.831s1.387-.277 1.941-.83c1.11-1.109 1.11-2.77 0-3.878L23.868 20.015z"></path></svg>
+<span class="icon__fallback-text">Close search</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+<div data-header-section="" data-section-id="header" data-section-type="header-section">
+
+<div aria-label="Announcement" class="announcement-bar" role="region">
+<div class="page-width">
+<!--<p class="announcement-bar__message"></p>-->
+<nav class="grid__item medium-up--one-full small--hide" id="AccessibleNav" role="navigation">
+<div class="top__left_nav">
+<ul class="site-nav list--inline" id="SiteNav">
+<li>
+<a class="site-nav__link site-nav__link--main" href="/">
+<span class="site-nav__label">Home</span>
+</a>
+</li>
+<li>
+<a class="site-nav__link site-nav__link--main" href="/pages/about">
+<span class="site-nav__label">About</span>
+</a>
+</li>
+<li class="site-nav--active">
+<a aria-current="page" class="site-nav__link site-nav__link--main site-nav__link--active" href="/collections/all">
+<span class="site-nav__label">Store</span>
+</a>
+</li>
+<li>
+<a class="site-nav__link site-nav__link--main" href="/pages/faq">
+<span class="site-nav__label">FAQ</span>
+</a>
+</li>
+<li>
+<a class="site-nav__link site-nav__link--main" href="/pages/partners">
+<span class="site-nav__label">Partners</span>
+</a>
+</li>
+<li>
+<a class="site-nav__link site-nav__link--main" href="/pages/contact-us">
+<span class="site-nav__label">Contact Us</span>
+</a>
+</li>
+</ul>
+</div>
+</nav>
+<div class="grid__item medium-up--one-half small--hide hdrtop-left">
+<!--                    <div class="site-header__icons-wrapper">
+          <button type="button" class="medium-up--hide  btn--link site-header__icon site-header__search-toggle js-drawer-open-top" data-predictive-search-open-drawer>
+            <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-search" viewBox="0 0 37 40"><path d="M35.6 36l-9.8-9.8c4.1-5.4 3.6-13.2-1.3-18.1-5.4-5.4-14.2-5.4-19.7 0-5.4 5.4-5.4 14.2 0 19.7 2.6 2.6 6.1 4.1 9.8 4.1 3 0 5.9-1 8.3-2.8l9.8 9.8c.4.4.9.6 1.4.6s1-.2 1.4-.6c.9-.9.9-2.1.1-2.9zm-20.9-8.2c-2.6 0-5.1-1-7-2.9-3.9-3.9-3.9-10.1 0-14C9.6 9 12.2 8 14.7 8s5.1 1 7 2.9c3.9 3.9 3.9 10.1 0 14-1.9 1.9-4.4 2.9-7 2.9z"/></svg><span class="small--hide " > Search</span>
+            <span class="icon__fallback-text">Search</span>
+          </button>
+
+          
+            
+              <a href="/account/login" class="site-header__icon site-header__account">
+                
+                <i class="fa fa-user" aria-hidden="true"></i>
+                <span class="small--hide " > Login / Register</span>
+                <span class="icon__fallback-text">Log in</span>
+              </a>
+            
+          
+
+          <a href="/cart" class="site-header__icon site-header__cart">
+            
+            <i class="fa fa-shopping-basket" aria-hidden="true"></i>
+            <span class="small--hide " >Cart</span>
+            <span class="icon__fallback-text">Cart</span>
+            <div id="CartCount" class="site-header__cart-count hide critical-hidden" data-cart-count-bubble>
+              <span data-cart-count>0</span>
+              <span class="icon__fallback-text medium-up--hide">items</span>
+            </div>
+          </a>
+
+          
+            <button type="button" class="btn--link site-header__icon site-header__menu js-mobile-nav-toggle mobile-nav--open" aria-controls="MobileNav"  aria-expanded="false" aria-label="Menu">
+              <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-hamburger" viewBox="0 0 37 40"><path d="M33.5 25h-30c-1.1 0-2-.9-2-2s.9-2 2-2h30c1.1 0 2 .9 2 2s-.9 2-2 2zm0-11.5h-30c-1.1 0-2-.9-2-2s.9-2 2-2h30c1.1 0 2 .9 2 2s-.9 2-2 2zm0 23h-30c-1.1 0-2-.9-2-2s.9-2 2-2h30c1.1 0 2 .9 2 2s-.9 2-2 2z"/></svg>
+              <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-close" viewBox="0 0 40 40"><path d="M23.868 20.015L39.117 4.78c1.11-1.108 1.11-2.77 0-3.877-1.109-1.108-2.773-1.108-3.882 0L19.986 16.137 4.737.904C3.628-.204 1.965-.204.856.904c-1.11 1.108-1.11 2.77 0 3.877l15.249 15.234L.855 35.248c-1.108 1.108-1.108 2.77 0 3.877.555.554 1.248.831 1.942.831s1.386-.277 1.94-.83l15.25-15.234 15.248 15.233c.555.554 1.248.831 1.941.831s1.387-.277 1.941-.83c1.11-1.109 1.11-2.77 0-3.878L23.868 20.015z" class="layer"/></svg>
+            </button>
+          
+        </div> -->
+</div>
+</div>
+</div>
+<header class="site-header border-bottom logo--left" role="banner">
+<div class="grid grid--no-gutters grid--table site-header__mobile-nav">
+<div class="page-width small--hide">
+<div class="grid__item medium-up--one-half logo-align--left">
+<div class="h2 site-header__logo">
+<a class="site-header__logo-image" data-image-loading-animation="" href="/">
+<img alt="BuyYourDevice" class="lazyload js" data-aspectratio="1.3034682080924855" data-sizes="auto" data-src="//www.buyyourdevice.co.za/cdn/shop/files/logo_35f3d380-d3e8-469f-9937-194ecca87aa6_{width}x.png?v=1634701348" data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]" src="//www.buyyourdevice.co.za/cdn/shop/files/logo_35f3d380-d3e8-469f-9937-194ecca87aa6_300x300.png?v=1634701348" style="max-width: 115px"/>
+<noscript>
+<img alt="BuyYourDevice" src="//www.buyyourdevice.co.za/cdn/shop/files/logo_35f3d380-d3e8-469f-9937-194ecca87aa6_115x.png?v=1634701348" srcset="//www.buyyourdevice.co.za/cdn/shop/files/logo_35f3d380-d3e8-469f-9937-194ecca87aa6_115x.png?v=1634701348 1x, //www.buyyourdevice.co.za/cdn/shop/files/logo_35f3d380-d3e8-469f-9937-194ecca87aa6_115x@2x.png?v=1634701348 2x" style="max-width: 115px;"/>
+</noscript>
+</a>
+</div>
+</div>
+<!-- 
+      
+        <nav class="grid__item medium-up--one-half small--hide" id="AccessibleNav" role="navigation">
+          
+<div class="top__left_nav">
+<ul class="site-nav list--inline" id="SiteNav">
+  
+
+
+
+    
+      <li >
+        <a href="/"
+          class="site-nav__link site-nav__link--main"
+          
+        >
+          <span class="site-nav__label">Home</span>
+        </a>
+      </li>
+    
+  
+
+
+
+    
+      <li >
+        <a href="/pages/about"
+          class="site-nav__link site-nav__link--main"
+          
+        >
+          <span class="site-nav__label">About</span>
+        </a>
+      </li>
+    
+  
+
+
+
+    
+      <li  class="site-nav--active">
+        <a href="/collections/all"
+          class="site-nav__link site-nav__link--main site-nav__link--active"
+           aria-current="page"
+        >
+          <span class="site-nav__label">Store</span>
+        </a>
+      </li>
+    
+  
+
+
+
+    
+      <li >
+        <a href="/pages/faq"
+          class="site-nav__link site-nav__link--main"
+          
+        >
+          <span class="site-nav__label">FAQ</span>
+        </a>
+      </li>
+    
+  
+
+
+
+    
+      <li >
+        <a href="/pages/partners"
+          class="site-nav__link site-nav__link--main"
+          
+        >
+          <span class="site-nav__label">Partners</span>
+        </a>
+      </li>
+    
+  
+
+
+
+    
+      <li >
+        <a href="/pages/contact-us"
+          class="site-nav__link site-nav__link--main"
+          
+        >
+          <span class="site-nav__label">Contact Us</span>
+        </a>
+      </li>
+    
+  
+</ul>
+</div>
+        </nav>
+       -->
+<!--       <div class=" small--hide grid__item medium-up--two-quarters "> -->
+<div class="small--hide grid__item medium-up--one-half">
+<div class="site-header__icons-wrapper">
+<div class="site-header__icon search_bar_header">
+<form action="/search" class="search-form search-bar__form" method="get" role="search">
+<div class="sv_search_wrap">
+<select class="sv_search_product false" name="term">
+<option value="">All Categories</option>
+<optgroup class="sv-advance-search" label="All Categories">
+<option value="desktops">Desktops</option>
+<option value="laptops">Laptops</option>
+<option value="our-products">Our Products</option>
+<option value="uncategorized">Uncategorized</option>
+</optgroup>
+</select>
+</div>
+<div class="search-form__input-wrapper">
+<input aria-autocomplete="list" aria-expanded="false" aria-haspopup="listbox" aria-label="Search" aria-owns="predictive-search-results" class="search-form__input search-bar__input" data-base-url="/search" data-predictive-search-drawer-input="" name="q" placeholder="Search entire store here" role="combobox" type="text"/>
+<input aria-hidden="true" name="options[prefix]" type="hidden" value="last"/>
+<div class="predictive-search-wrapper predictive-search-wrapper--drawer" data-predictive-search-mount="drawer"></div>
+</div>
+<button class="search-bar__submit search-form__submit" data-search-form-submit="" type="submit">
+<svg aria-hidden="true" class="icon icon-search" focusable="false" role="presentation" viewbox="0 0 37 40"><path d="M35.6 36l-9.8-9.8c4.1-5.4 3.6-13.2-1.3-18.1-5.4-5.4-14.2-5.4-19.7 0-5.4 5.4-5.4 14.2 0 19.7 2.6 2.6 6.1 4.1 9.8 4.1 3 0 5.9-1 8.3-2.8l9.8 9.8c.4.4.9.6 1.4.6s1-.2 1.4-.6c.9-.9.9-2.1.1-2.9zm-20.9-8.2c-2.6 0-5.1-1-7-2.9-3.9-3.9-3.9-10.1 0-14C9.6 9 12.2 8 14.7 8s5.1 1 7 2.9c3.9 3.9 3.9 10.1 0 14-1.9 1.9-4.4 2.9-7 2.9z"></path></svg>
+<span class="icon__fallback-text">Submit</span>
+</button>
+</form>
+</div>
+</div>
+</div>
+</div>
+<!--mobile-nav-->
+<div class="mobile__header">
+<div class="page-width">
+<div class="grid grid--no-gutters grid--table site-header__mobile-nav medium-up--hide">
+<div class="full_widthh">
+<div class="grid__item">
+<div class="grid">
+<div class="grid__item medium-up--one-twelfth one-sixth small--one-third">
+<button aria-controls="MobileNav" aria-expanded="false" aria-label="Menu" class="btn--link site-header__icon site-header__menu js-mobile-nav-toggle mobile-nav--open" type="button">
+<svg aria-hidden="true" class="icon icon-hamburger" focusable="false" role="presentation" viewbox="0 0 37 40"><path d="M33.5 25h-30c-1.1 0-2-.9-2-2s.9-2 2-2h30c1.1 0 2 .9 2 2s-.9 2-2 2zm0-11.5h-30c-1.1 0-2-.9-2-2s.9-2 2-2h30c1.1 0 2 .9 2 2s-.9 2-2 2zm0 23h-30c-1.1 0-2-.9-2-2s.9-2 2-2h30c1.1 0 2 .9 2 2s-.9 2-2 2z"></path></svg>
+<svg aria-hidden="true" class="icon icon-close" focusable="false" role="presentation" viewbox="0 0 40 40"><path class="layer" d="M23.868 20.015L39.117 4.78c1.11-1.108 1.11-2.77 0-3.877-1.109-1.108-2.773-1.108-3.882 0L19.986 16.137 4.737.904C3.628-.204 1.965-.204.856.904c-1.11 1.108-1.11 2.77 0 3.877l15.249 15.234L.855 35.248c-1.108 1.108-1.108 2.77 0 3.877.555.554 1.248.831 1.942.831s1.386-.277 1.94-.83l15.25-15.234 15.248 15.233c.555.554 1.248.831 1.941.831s1.387-.277 1.941-.83c1.11-1.109 1.11-2.77 0-3.878L23.868 20.015z"></path></svg>
+</button>
+</div>
+<div class="grid__item medium-up--one-twelfth one-sixth small--one-third">
+<div id="m__logo">
+<a class="site-header__logo-image" href="/">
+<img src="//www.buyyourdevice.co.za/cdn/shop/files/logo.png?v=1634701283"/>
+<noscript>
+<img alt="BuyYourDevice" src="//cdn.shopify.com/s/files/1/0600/5987/7575/files/cropped-final-logo-1_180x_29eef32d-a6c0-4ced-be1f-39e0658b10f6_75x.png?v=1634617607" srcset="//cdn.shopify.com/s/files/1/0600/5987/7575/files/cropped-final-logo-1_180x_29eef32d-a6c0-4ced-be1f-39e0658b10f6_75x.png?v=1634617607 1x, //cdn.shopify.com/s/files/1/0600/5987/7575/files/cropped-final-logo-1_180x_29eef32d-a6c0-4ced-be1f-39e0658b10f6_75x@2x.png?v=1634617607 2x" style="max-width: 75px;"/>
+</noscript>
+</a>
+</div>
+</div>
+<div class="grid__item medium-up--one-twelfth one-sixth small--one-third">
+<div class="site-header__icons-wrapper">
+<button class="medium-up--hide btn--link site-header__icon site-header__search-toggle js-drawer-open-top" data-predictive-search-open-drawer="" type="button">
+<svg aria-hidden="true" class="icon icon-search" focusable="false" role="presentation" viewbox="0 0 37 40"><path d="M35.6 36l-9.8-9.8c4.1-5.4 3.6-13.2-1.3-18.1-5.4-5.4-14.2-5.4-19.7 0-5.4 5.4-5.4 14.2 0 19.7 2.6 2.6 6.1 4.1 9.8 4.1 3 0 5.9-1 8.3-2.8l9.8 9.8c.4.4.9.6 1.4.6s1-.2 1.4-.6c.9-.9.9-2.1.1-2.9zm-20.9-8.2c-2.6 0-5.1-1-7-2.9-3.9-3.9-3.9-10.1 0-14C9.6 9 12.2 8 14.7 8s5.1 1 7 2.9c3.9 3.9 3.9 10.1 0 14-1.9 1.9-4.4 2.9-7 2.9z"></path></svg><span class="small--hide"> Search</span>
+<span class="icon__fallback-text">Search</span>
+</button>
+<a class="site-header__icon site-header__account" href="/account/login">
+<svg aria-hidden="true" class="icon icon-login" focusable="false" role="presentation" viewbox="0 0 28.33 37.68"><path d="M14.17 14.9a7.45 7.45 0 1 0-7.5-7.45 7.46 7.46 0 0 0 7.5 7.45zm0-10.91a3.45 3.45 0 1 1-3.5 3.46A3.46 3.46 0 0 1 14.17 4zM14.17 16.47A14.18 14.18 0 0 0 0 30.68c0 1.41.66 4 5.11 5.66a27.17 27.17 0 0 0 9.06 1.34c6.54 0 14.17-1.84 14.17-7a14.18 14.18 0 0 0-14.17-14.21zm0 17.21c-6.3 0-10.17-1.77-10.17-3a10.17 10.17 0 1 1 20.33 0c.01 1.23-3.86 3-10.16 3z"></path></svg><span class="small--hide"> Account</span>
+<span class="icon__fallback-text">Log in</span>
+</a>
+<a class="site-header__icon site-header__cart" href="/cart">
+<svg aria-hidden="true" class="icon icon-cart" focusable="false" role="presentation" viewbox="0 0 37 40"><path d="M36.5 34.8L33.3 8h-5.9C26.7 3.9 23 .8 18.5.8S10.3 3.9 9.6 8H3.7L.5 34.8c-.2 1.5.4 2.4.9 3 .5.5 1.4 1.2 3.1 1.2h28c1.3 0 2.4-.4 3.1-1.3.7-.7 1-1.8.9-2.9zm-18-30c2.2 0 4.1 1.4 4.7 3.2h-9.5c.7-1.9 2.6-3.2 4.8-3.2zM4.5 35l2.8-23h2.2v3c0 1.1.9 2 2 2s2-.9 2-2v-3h10v3c0 1.1.9 2 2 2s2-.9 2-2v-3h2.2l2.8 23h-28z"></path></svg><span class="small--hide">Cart</span>
+<span class="icon__fallback-text">Cart</span>
+<div class="site-header__cart-count hide critical-hidden" data-cart-count-bubble="" id="CartCount">
+<span data-cart-count="">0</span>
+<span class="icon__fallback-text medium-up--hide">items</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--end-->
+<div class="small--hide grid__item medium-up--one-quarter text-right site-header__icons site-header__icons--plus medium-up--hide">
+<div class="site-header__icons-wrapper">
+<button class="medium-up--hide btn--link site-header__icon site-header__search-toggle js-drawer-open-top" data-predictive-search-open-drawer="" type="button">
+<svg aria-hidden="true" class="icon icon-search" focusable="false" role="presentation" viewbox="0 0 37 40"><path d="M35.6 36l-9.8-9.8c4.1-5.4 3.6-13.2-1.3-18.1-5.4-5.4-14.2-5.4-19.7 0-5.4 5.4-5.4 14.2 0 19.7 2.6 2.6 6.1 4.1 9.8 4.1 3 0 5.9-1 8.3-2.8l9.8 9.8c.4.4.9.6 1.4.6s1-.2 1.4-.6c.9-.9.9-2.1.1-2.9zm-20.9-8.2c-2.6 0-5.1-1-7-2.9-3.9-3.9-3.9-10.1 0-14C9.6 9 12.2 8 14.7 8s5.1 1 7 2.9c3.9 3.9 3.9 10.1 0 14-1.9 1.9-4.4 2.9-7 2.9z"></path></svg><span class="small--hide"> Search</span>
+<span class="icon__fallback-text">Search</span>
+</button>
+<a class="site-header__icon site-header__account" href="/account/login">
+<svg aria-hidden="true" class="icon icon-login" focusable="false" role="presentation" viewbox="0 0 28.33 37.68"><path d="M14.17 14.9a7.45 7.45 0 1 0-7.5-7.45 7.46 7.46 0 0 0 7.5 7.45zm0-10.91a3.45 3.45 0 1 1-3.5 3.46A3.46 3.46 0 0 1 14.17 4zM14.17 16.47A14.18 14.18 0 0 0 0 30.68c0 1.41.66 4 5.11 5.66a27.17 27.17 0 0 0 9.06 1.34c6.54 0 14.17-1.84 14.17-7a14.18 14.18 0 0 0-14.17-14.21zm0 17.21c-6.3 0-10.17-1.77-10.17-3a10.17 10.17 0 1 1 20.33 0c.01 1.23-3.86 3-10.16 3z"></path></svg><span class="small--hide"> Account</span>
+<span class="icon__fallback-text">Log in</span>
+</a>
+<a class="site-header__icon site-header__cart" href="/cart">
+<svg aria-hidden="true" class="icon icon-cart" focusable="false" role="presentation" viewbox="0 0 37 40"><path d="M36.5 34.8L33.3 8h-5.9C26.7 3.9 23 .8 18.5.8S10.3 3.9 9.6 8H3.7L.5 34.8c-.2 1.5.4 2.4.9 3 .5.5 1.4 1.2 3.1 1.2h28c1.3 0 2.4-.4 3.1-1.3.7-.7 1-1.8.9-2.9zm-18-30c2.2 0 4.1 1.4 4.7 3.2h-9.5c.7-1.9 2.6-3.2 4.8-3.2zM4.5 35l2.8-23h2.2v3c0 1.1.9 2 2 2s2-.9 2-2v-3h10v3c0 1.1.9 2 2 2s2-.9 2-2v-3h2.2l2.8 23h-28z"></path></svg><span class="small--hide">Cart</span>
+<span class="icon__fallback-text">Cart</span>
+<div class="site-header__cart-count hide critical-hidden" data-cart-count-bubble="" id="CartCount">
+<span data-cart-count="">0</span>
+<span class="icon__fallback-text medium-up--hide">items</span>
+</div>
+</a>
+<button aria-controls="MobileNav" aria-expanded="false" aria-label="Menu" class="btn--link site-header__icon site-header__menu js-mobile-nav-toggle mobile-nav--open" type="button">
+<svg aria-hidden="true" class="icon icon-hamburger" focusable="false" role="presentation" viewbox="0 0 37 40"><path d="M33.5 25h-30c-1.1 0-2-.9-2-2s.9-2 2-2h30c1.1 0 2 .9 2 2s-.9 2-2 2zm0-11.5h-30c-1.1 0-2-.9-2-2s.9-2 2-2h30c1.1 0 2 .9 2 2s-.9 2-2 2zm0 23h-30c-1.1 0-2-.9-2-2s.9-2 2-2h30c1.1 0 2 .9 2 2s-.9 2-2 2z"></path></svg>
+<svg aria-hidden="true" class="icon icon-close" focusable="false" role="presentation" viewbox="0 0 40 40"><path class="layer" d="M23.868 20.015L39.117 4.78c1.11-1.108 1.11-2.77 0-3.877-1.109-1.108-2.773-1.108-3.882 0L19.986 16.137 4.737.904C3.628-.204 1.965-.204.856.904c-1.11 1.108-1.11 2.77 0 3.877l15.249 15.234L.855 35.248c-1.108 1.108-1.108 2.77 0 3.877.555.554 1.248.831 1.942.831s1.386-.277 1.94-.83l15.25-15.234 15.248 15.233c.555.554 1.248.831 1.941.831s1.387-.277 1.941-.83c1.11-1.109 1.11-2.77 0-3.878L23.868 20.015z"></path></svg>
+</button>
+</div>
+</div>
+<nav class="grid__item medium-up--one-whole small--hide" id="AccessibleNav" role="navigation">
+<div class="top__left_nav">
+<ul class="site-nav list--inline" id="SiteNav">
+<li>
+<a class="site-nav__link site-nav__link--main" href="/">
+<span class="site-nav__label">Home</span>
+</a>
+</li>
+<li>
+<a class="site-nav__link site-nav__link--main" href="/pages/about">
+<span class="site-nav__label">About</span>
+</a>
+</li>
+<li class="site-nav--active">
+<a aria-current="page" class="site-nav__link site-nav__link--main site-nav__link--active" href="/collections/all">
+<span class="site-nav__label">Store</span>
+</a>
+</li>
+<li>
+<a class="site-nav__link site-nav__link--main" href="/pages/faq">
+<span class="site-nav__label">FAQ</span>
+</a>
+</li>
+<li>
+<a class="site-nav__link site-nav__link--main" href="/pages/partners">
+<span class="site-nav__label">Partners</span>
+</a>
+</li>
+<li>
+<a class="site-nav__link site-nav__link--main" href="/pages/contact-us">
+<span class="site-nav__label">Contact Us</span>
+</a>
+</li>
+</ul>
+</div>
+</nav>
+<nav class="mobile-nav-wrapper medium-up--hide critical-hidden" role="navigation">
+<ul class="mobile-nav" id="MobileNav">
+<li class="mobile-nav__item border-bottom">
+<a class="mobile-nav__link" href="/">
+<span class="mobile-nav__label">Home</span>
+</a>
+</li>
+<li class="mobile-nav__item border-bottom">
+<a class="mobile-nav__link" href="/pages/about">
+<span class="mobile-nav__label">About</span>
+</a>
+</li>
+<li class="mobile-nav__item border-bottom">
+<a aria-current="page" class="mobile-nav__link mobile-nav__link--active" href="/collections/all">
+<span class="mobile-nav__label">Store</span>
+</a>
+</li>
+<li class="mobile-nav__item border-bottom">
+<a class="mobile-nav__link" href="/pages/faq">
+<span class="mobile-nav__label">FAQ</span>
+</a>
+</li>
+<li class="mobile-nav__item border-bottom">
+<a class="mobile-nav__link" href="/pages/partners">
+<span class="mobile-nav__label">Partners</span>
+</a>
+</li>
+<li class="mobile-nav__item">
+<a class="mobile-nav__link" href="/pages/contact-us">
+<span class="mobile-nav__label">Contact Us</span>
+</a>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+</div>
+
+</div>
+<div class="page-container drawer-page-content" id="PageContainer">
+<main class="main-content js-focus-hidden" id="MainContent" role="main" tabindex="-1">
+<div class="shopify-section" id="shopify-section-collection-template">
+<div data-section-id="collection-template" data-section-type="collection-template">
+<header class="collection-header">
+<div class="page-width">
+<div class="section-header text-center">
+<h1>
+<span class="visually-hidden">Collection: </span>
+              Products
+          </h1>
+</div>
+</div>
+<div class="filters-toolbar-wrapper">
+<div class="page-width">
+<div class="filters-toolbar">
+<div class="filters-toolbar__item-wrapper">
+<div class="filters-toolbar__item-child"><label class="filters-toolbar__label select-label" for="SortBy">Sort by</label>
+<div class="filters-toolbar__input-wrapper select-group">
+<select aria-describedby="a11y-refresh-page-message a11y-selection-message" class="filters-toolbar__input hidden" data-default-sortby="title-ascending" data-select-input="" id="SortBy" name="sort_by"><option value="manual">Featured</option><option value="most-relevant">Most relevant</option><option value="best-selling">Best selling</option><option selected="selected" value="title-ascending">Alphabetically, A-Z</option><option value="title-descending">Alphabetically, Z-A</option><option value="price-ascending">Price, low to high</option><option value="price-descending">Price, high to low</option><option value="created-ascending">Date, old to new</option><option value="created-descending">Date, new to old</option></select>
+<svg aria-hidden="true" class="icon icon-chevron-down" focusable="false" role="presentation" viewbox="0 0 9 9"><path d="M8.542 2.558a.625.625 0 0 1 0 .884l-3.6 3.6a.626.626 0 0 1-.884 0l-3.6-3.6a.625.625 0 1 1 .884-.884L4.5 5.716l3.158-3.158a.625.625 0 0 1 .884 0z" fill="#fff"></path></svg>
+</div>
+</div>
+</div>
+<div class="filters-toolbar__item filters-toolbar__item--count">
+<span class="filters-toolbar__product-count">7 products</span>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div class="page-width" id="Collection">
+<ul class="grid grid--uniform grid--view-items">
+<li class="grid__item grid__item--collection-template small--one-half medium-up--one-quarter">
+<div class="grid-view-item product-card">
+<a class="grid-view-item__link grid-view-item__image-container full-width-link" href="/products/lcd-20-wide-monitor-2nd-hand-used">
+<span class="visually-hidden">LCD 20" wide Monitor (secondhand/ used)</span>
+</a>
+
+<div class="product-card__image-with-placeholder-wrapper" data-image-loading-animation="">
+<div class="grid-view-item__image-wrapper product-card__image-wrapper js">
+<!--       <div style="padding-top:100.0%;"> -->
+<img alt="" class="grid-view-item__image lazyload" data-aspectratio="1.0" data-image="" data-sizes="auto" data-src="//www.buyyourdevice.co.za/cdn/shop/files/LCD_{width}x.jpg?v=1779782032" data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]"/>
+<!--       </div> -->
+</div>
+</div>
+<noscript>
+<img alt="" class="grid-view-item__image" src="//www.buyyourdevice.co.za/cdn/shop/files/LCD_250x250@2x.jpg?v=1779782032" style="max-width: 250.0px;"/>
+</noscript>
+<div class="prod-infor">
+<div aria-hidden="true" class="h4 grid-view-item__title product-card__title">LCD 20" wide Moni...</div>
+<form action="/cart/add" class="grid_form" method="post">
+<input name="id" type="hidden" value="46597085626567"/>
+<input class="btn" type="submit" value="Add to cart"/>
+</form>
+<dl class="price price--listing">
+<div class="price__regular">
+<dt>
+<span class="visually-hidden visually-hidden--inline">Regular price</span>
+</dt>
+<dd>
+<span class="price-item price-item--regular">R 599.00
+</span>
+</dd>
+</div>
+<div class="price__sale">
+<dt>
+<span class="visually-hidden visually-hidden--inline">Sale price</span>
+</dt>
+<dd>
+<span class="price-item price-item--sale">R 599.00
+</span>
+</dd>
+<div class="price__compare">
+<dt>
+<span class="visually-hidden visually-hidden--inline">Regular price</span>
+</dt>
+<dd>
+<s class="price-item price-item--regular">
+</s>
+</dd>
+</div>
+</div>
+<div class="price__unit">
+<dt>
+<span class="visually-hidden visually-hidden--inline">Unit price</span>
+</dt>
+<dd class="price-unit-price"><span></span><span aria-hidden="true">/</span><span class="visually-hidden">per </span><span></span></dd>
+</div>
+<div class="price__badges price__badges--listing">
+<span aria-hidden="true" class="price__badge price__badge--sale">
+<span>Sale</span>
+</span>
+<span class="price__badge price__badge--sold-out">
+<span>Sold out</span>
+</span>
+</div>
+</dl>
+</div>
+</div>
+</li>
+<li class="grid__item grid__item--collection-template small--one-half medium-up--one-quarter">
+<div class="grid-view-item product-card">
+<a class="grid-view-item__link grid-view-item__image-container full-width-link" href="/products/lcd-22-wide-monitor-secondhand-used-copy">
+<span class="visually-hidden">LCD 22" wide Monitor (secondhand/ used) (Copy)</span>
+</a>
+
+<div class="product-card__image-with-placeholder-wrapper" data-image-loading-animation="">
+<div class="grid-view-item__image-wrapper product-card__image-wrapper js">
+<!--       <div style="padding-top:100.0%;"> -->
+<img alt="" class="grid-view-item__image lazyload" data-aspectratio="1.0" data-image="" data-sizes="auto" data-src="//www.buyyourdevice.co.za/cdn/shop/files/LCD_{width}x.jpg?v=1779782032" data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]"/>
+<!--       </div> -->
+</div>
+</div>
+<noscript>
+<img alt="" class="grid-view-item__image" src="//www.buyyourdevice.co.za/cdn/shop/files/LCD_250x250@2x.jpg?v=1779782032" style="max-width: 250.0px;"/>
+</noscript>
+<div class="prod-infor">
+<div aria-hidden="true" class="h4 grid-view-item__title product-card__title">LCD 22" wide Moni...</div>
+<form action="/cart/add" class="grid_form" method="post">
+<input name="id" type="hidden" value="46916457660615"/>
+<input class="btn" type="submit" value="Add to cart"/>
+</form>
+<dl class="price price--listing">
+<div class="price__regular">
+<dt>
+<span class="visually-hidden visually-hidden--inline">Regular price</span>
+</dt>
+<dd>
+<span class="price-item price-item--regular">R 999.00
+</span>
+</dd>
+</div>
+<div class="price__sale">
+<dt>
+<span class="visually-hidden visually-hidden--inline">Sale price</span>
+</dt>
+<dd>
+<span class="price-item price-item--sale">R 999.00
+</span>
+</dd>
+<div class="price__compare">
+<dt>
+<span class="visually-hidden visually-hidden--inline">Regular price</span>
+</dt>
+<dd>
+<s class="price-item price-item--regular">
+</s>
+</dd>
+</div>
+</div>
+<div class="price__unit">
+<dt>
+<span class="visually-hidden visually-hidden--inline">Unit price</span>
+</dt>
+<dd class="price-unit-price"><span></span><span aria-hidden="true">/</span><span class="visually-hidden">per </span><span></span></dd>
+</div>
+<div class="price__badges price__badges--listing">
+<span aria-hidden="true" class="price__badge price__badge--sale">
+<span>Sale</span>
+</span>
+<span class="price__badge price__badge--sold-out">
+<span>Sold out</span>
+</span>
+</div>
+</dl>
+</div>
+</div>
+</li>
+<li class="grid__item grid__item--collection-template small--one-half medium-up--one-quarter">
+<div class="grid-view-item product-card">
+<a class="grid-view-item__link grid-view-item__image-container full-width-link" href="/products/lenovo-thinkcentre-m70q-refurbished-2nd-hand">
+<span class="visually-hidden">Lenovo ThinkCentre M70q i5G10( secondhand / used)</span>
+</a>
+
+<div class="product-card__image-with-placeholder-wrapper" data-image-loading-animation="">
+<div class="grid-view-item__image-wrapper product-card__image-wrapper js">
+<!--       <div style="padding-top:100.0%;"> -->
+<img alt="" class="grid-view-item__image lazyload" data-aspectratio="1.0" data-image="" data-sizes="auto" data-src="//www.buyyourdevice.co.za/cdn/shop/files/lenovo-thinkcentre-M70q_22f1c6e4-7b76-4230-a268-428dafb28a9c_{width}x.webp?v=1754662450" data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]"/>
+<!--       </div> -->
+</div>
+</div>
+<noscript>
+<img alt="" class="grid-view-item__image" src="//www.buyyourdevice.co.za/cdn/shop/files/lenovo-thinkcentre-M70q_22f1c6e4-7b76-4230-a268-428dafb28a9c_250x250@2x.webp?v=1754662450" style="max-width: 250.0px;"/>
+</noscript>
+<div class="prod-infor">
+<div aria-hidden="true" class="h4 grid-view-item__title product-card__title">Lenovo ThinkCentr...</div>
+<form action="/cart/add" class="grid_form" method="post">
+<input name="id" type="hidden" value="45403482423495"/>
+<input class="btn" type="submit" value="Add to cart"/>
+</form>
+<dl class="price price--listing">
+<div class="price__regular">
+<dt>
+<span class="visually-hidden visually-hidden--inline">Regular price</span>
+</dt>
+<dd>
+<span class="price-item price-item--regular">R 1,693.00
+</span>
+</dd>
+</div>
+<div class="price__sale">
+<dt>
+<span class="visually-hidden visually-hidden--inline">Sale price</span>
+</dt>
+<dd>
+<span class="price-item price-item--sale">R 1,693.00
+</span>
+</dd>
+<div class="price__compare">
+<dt>
+<span class="visually-hidden visually-hidden--inline">Regular price</span>
+</dt>
+<dd>
+<s class="price-item price-item--regular">
+</s>
+</dd>
+</div>
+</div>
+<div class="price__unit">
+<dt>
+<span class="visually-hidden visually-hidden--inline">Unit price</span>
+</dt>
+<dd class="price-unit-price"><span></span><span aria-hidden="true">/</span><span class="visually-hidden">per </span><span></span></dd>
+</div>
+<div class="price__badges price__badges--listing">
+<span aria-hidden="true" class="price__badge price__badge--sale">
+<span>Sale</span>
+</span>
+<span class="price__badge price__badge--sold-out">
+<span>Sold out</span>
+</span>
+</div>
+</dl>
+</div>
+</div>
+</li>
+<li class="grid__item grid__item--collection-template small--one-half medium-up--one-quarter">
+<div class="grid-view-item grid-view-item--sold-out product-card">
+<a class="grid-view-item__link grid-view-item__image-container full-width-link" href="/products/lenovo-thinkpad-t14-refurbished-2nd-hand">
+<span class="visually-hidden">Lenovo Thinkpad T14 AMD Ryzen 5 Pro 4650  (secondhand / used)</span>
+</a>
+
+<div class="product-card__image-with-placeholder-wrapper" data-image-loading-animation="">
+<div class="grid-view-item__image-wrapper product-card__image-wrapper js">
+<!--       <div style="padding-top:56.22641509433962%;"> -->
+<img alt="" class="grid-view-item__image lazyload" data-aspectratio="1.778523489932886" data-image="" data-sizes="auto" data-src="//www.buyyourdevice.co.za/cdn/shop/files/LenovoThinkpadT14_{width}x.jpg?v=1708504493" data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]"/>
+<!--       </div> -->
+</div>
+</div>
+<noscript>
+<img alt="" class="grid-view-item__image" src="//www.buyyourdevice.co.za/cdn/shop/files/LenovoThinkpadT14_250x250@2x.jpg?v=1708504493" style="max-width: 444.6308724832215px;"/>
+</noscript>
+<div class="prod-infor">
+<div aria-hidden="true" class="h4 grid-view-item__title product-card__title">Lenovo Thinkpad T...</div>
+<form action="/cart/add" class="grid_form" method="post">
+<input name="id" type="hidden" value="43768558256327"/>
+<input class="btn" type="submit" value="Add to cart"/>
+</form>
+<dl class="price price--listing price--sold-out">
+<div class="price__regular">
+<dt>
+<span class="visually-hidden visually-hidden--inline">Regular price</span>
+</dt>
+<dd>
+<span class="price-item price-item--regular">R 1,670.00
+</span>
+</dd>
+</div>
+<div class="price__sale">
+<dt>
+<span class="visually-hidden visually-hidden--inline">Sale price</span>
+</dt>
+<dd>
+<span class="price-item price-item--sale">R 1,670.00
+</span>
+</dd>
+<div class="price__compare">
+<dt>
+<span class="visually-hidden visually-hidden--inline">Regular price</span>
+</dt>
+<dd>
+<s class="price-item price-item--regular">
+</s>
+</dd>
+</div>
+</div>
+<div class="price__unit">
+<dt>
+<span class="visually-hidden visually-hidden--inline">Unit price</span>
+</dt>
+<dd class="price-unit-price"><span></span><span aria-hidden="true">/</span><span class="visually-hidden">per </span><span></span></dd>
+</div>
+<div class="price__badges price__badges--listing">
+<span aria-hidden="true" class="price__badge price__badge--sale">
+<span>Sale</span>
+</span>
+<span class="price__badge price__badge--sold-out">
+<span>Sold out</span>
+</span>
+</div>
+</dl>
+</div>
+</div>
+</li>
+<li class="grid__item grid__item--collection-template small--one-half medium-up--one-quarter">
+<div class="grid-view-item grid-view-item--sold-out product-card">
+<a class="grid-view-item__link grid-view-item__image-container full-width-link" href="/products/lenovo-thinkpad-t14-amd-ryzen-5-pro-5650-secondhand-used-copy">
+<span class="visually-hidden">Lenovo Thinkpad T14 AMD Ryzen 5 Pro 5650  (secondhand / used)</span>
+</a>
+
+<div class="product-card__image-with-placeholder-wrapper" data-image-loading-animation="">
+<div class="grid-view-item__image-wrapper product-card__image-wrapper js">
+<!--       <div style="padding-top:56.22641509433962%;"> -->
+<img alt="" class="grid-view-item__image lazyload" data-aspectratio="1.778523489932886" data-image="" data-sizes="auto" data-src="//www.buyyourdevice.co.za/cdn/shop/files/LenovoThinkpadT14_{width}x.jpg?v=1708504493" data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]"/>
+<!--       </div> -->
+</div>
+</div>
+<noscript>
+<img alt="" class="grid-view-item__image" src="//www.buyyourdevice.co.za/cdn/shop/files/LenovoThinkpadT14_250x250@2x.jpg?v=1708504493" style="max-width: 444.6308724832215px;"/>
+</noscript>
+<div class="prod-infor">
+<div aria-hidden="true" class="h4 grid-view-item__title product-card__title">Lenovo Thinkpad T...</div>
+<form action="/cart/add" class="grid_form" method="post">
+<input name="id" type="hidden" value="46916418306247"/>
+<input class="btn" type="submit" value="Add to cart"/>
+</form>
+<dl class="price price--listing price--sold-out">
+<div class="price__regular">
+<dt>
+<span class="visually-hidden visually-hidden--inline">Regular price</span>
+</dt>
+<dd>
+<span class="price-item price-item--regular">R 1,970.00
+</span>
+</dd>
+</div>
+<div class="price__sale">
+<dt>
+<span class="visually-hidden visually-hidden--inline">Sale price</span>
+</dt>
+<dd>
+<span class="price-item price-item--sale">R 1,970.00
+</span>
+</dd>
+<div class="price__compare">
+<dt>
+<span class="visually-hidden visually-hidden--inline">Regular price</span>
+</dt>
+<dd>
+<s class="price-item price-item--regular">
+</s>
+</dd>
+</div>
+</div>
+<div class="price__unit">
+<dt>
+<span class="visually-hidden visually-hidden--inline">Unit price</span>
+</dt>
+<dd class="price-unit-price"><span></span><span aria-hidden="true">/</span><span class="visually-hidden">per </span><span></span></dd>
+</div>
+<div class="price__badges price__badges--listing">
+<span aria-hidden="true" class="price__badge price__badge--sale">
+<span>Sale</span>
+</span>
+<span class="price__badge price__badge--sold-out">
+<span>Sold out</span>
+</span>
+</div>
+</dl>
+</div>
+</div>
+</li>
+<li class="grid__item grid__item--collection-template small--one-half medium-up--one-quarter">
+<div class="grid-view-item grid-view-item--sold-out product-card">
+<a class="grid-view-item__link grid-view-item__image-container full-width-link" href="/products/lenovo-thinkpad-t15-i5-g11-refurbished-2nd-hand-copy">
+<span class="visually-hidden">Lenovo Thinkpad T15 i5/G11 (used/ secondhand hand)</span>
+</a>
+
+<div class="product-card__image-with-placeholder-wrapper" data-image-loading-animation="">
+<div class="grid-view-item__image-wrapper product-card__image-wrapper js">
+<!--       <div style="padding-top:56.22641509433962%;"> -->
+<img alt="" class="grid-view-item__image lazyload" data-aspectratio="1.778523489932886" data-image="" data-sizes="auto" data-src="//www.buyyourdevice.co.za/cdn/shop/files/T15_{width}x.jpg?v=1741339178" data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]"/>
+<!--       </div> -->
+</div>
+</div>
+<noscript>
+<img alt="" class="grid-view-item__image" src="//www.buyyourdevice.co.za/cdn/shop/files/T15_250x250@2x.jpg?v=1741339178" style="max-width: 444.6308724832215px;"/>
+</noscript>
+<div class="prod-infor">
+<div aria-hidden="true" class="h4 grid-view-item__title product-card__title">Lenovo Thinkpad T...</div>
+<form action="/cart/add" class="grid_form" method="post">
+<input name="id" type="hidden" value="45707061133511"/>
+<input class="btn" type="submit" value="Add to cart"/>
+</form>
+<dl class="price price--listing price--sold-out">
+<div class="price__regular">
+<dt>
+<span class="visually-hidden visually-hidden--inline">Regular price</span>
+</dt>
+<dd>
+<span class="price-item price-item--regular">R 2,288.00
+</span>
+</dd>
+</div>
+<div class="price__sale">
+<dt>
+<span class="visually-hidden visually-hidden--inline">Sale price</span>
+</dt>
+<dd>
+<span class="price-item price-item--sale">R 2,288.00
+</span>
+</dd>
+<div class="price__compare">
+<dt>
+<span class="visually-hidden visually-hidden--inline">Regular price</span>
+</dt>
+<dd>
+<s class="price-item price-item--regular">
+</s>
+</dd>
+</div>
+</div>
+<div class="price__unit">
+<dt>
+<span class="visually-hidden visually-hidden--inline">Unit price</span>
+</dt>
+<dd class="price-unit-price"><span></span><span aria-hidden="true">/</span><span class="visually-hidden">per </span><span></span></dd>
+</div>
+<div class="price__badges price__badges--listing">
+<span aria-hidden="true" class="price__badge price__badge--sale">
+<span>Sale</span>
+</span>
+<span class="price__badge price__badge--sold-out">
+<span>Sold out</span>
+</span>
+</div>
+</dl>
+</div>
+</div>
+</li>
+<li class="grid__item grid__item--collection-template small--one-half medium-up--one-quarter">
+<div class="grid-view-item grid-view-item--sold-out product-card">
+<a class="grid-view-item__link grid-view-item__image-container full-width-link" href="/products/lenovo-thinkpad-x13-amd-refurbished-2nd-hand">
+<span class="visually-hidden">Lenovo Thinkpad X13 AMD Ryzen 5 PRO 5650U (secondhand / used)</span>
+</a>
+
+<div class="product-card__image-with-placeholder-wrapper" data-image-loading-animation="">
+<div class="grid-view-item__image-wrapper product-card__image-wrapper js">
+<!--       <div style="padding-top:75.0%;"> -->
+<img alt="" class="grid-view-item__image lazyload" data-aspectratio="1.3333333333333333" data-image="" data-sizes="auto" data-src="//www.buyyourdevice.co.za/cdn/shop/files/LenovoThinkPadX13_{width}x.jpg?v=1737029402" data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]"/>
+<!--       </div> -->
+</div>
+</div>
+<noscript>
+<img alt="" class="grid-view-item__image" src="//www.buyyourdevice.co.za/cdn/shop/files/LenovoThinkPadX13_250x250@2x.jpg?v=1737029402" style="max-width: 333.3333333333333px;"/>
+</noscript>
+<div class="prod-infor">
+<div aria-hidden="true" class="h4 grid-view-item__title product-card__title">Lenovo Thinkpad X...</div>
+<form action="/cart/add" class="grid_form" method="post">
+<input name="id" type="hidden" value="44821117894855"/>
+<input class="btn" type="submit" value="Add to cart"/>
+</form>
+<dl class="price price--listing price--sold-out">
+<div class="price__regular">
+<dt>
+<span class="visually-hidden visually-hidden--inline">Regular price</span>
+</dt>
+<dd>
+<span class="price-item price-item--regular">R 1,970.00
+</span>
+</dd>
+</div>
+<div class="price__sale">
+<dt>
+<span class="visually-hidden visually-hidden--inline">Sale price</span>
+</dt>
+<dd>
+<span class="price-item price-item--sale">R 1,970.00
+</span>
+</dd>
+<div class="price__compare">
+<dt>
+<span class="visually-hidden visually-hidden--inline">Regular price</span>
+</dt>
+<dd>
+<s class="price-item price-item--regular">
+</s>
+</dd>
+</div>
+</div>
+<div class="price__unit">
+<dt>
+<span class="visually-hidden visually-hidden--inline">Unit price</span>
+</dt>
+<dd class="price-unit-price"><span></span><span aria-hidden="true">/</span><span class="visually-hidden">per </span><span></span></dd>
+</div>
+<div class="price__badges price__badges--listing">
+<span aria-hidden="true" class="price__badge price__badge--sale">
+<span>Sale</span>
+</span>
+<span class="price__badge price__badge--sold-out">
+<span>Sold out</span>
+</span>
+</div>
+</dl>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</main>
+<div class="shopify-section" id="shopify-section-footer">
+<footer class="site-footer critical-hidden" data-section-id="footer" data-section-type="footer-section" role="contentinfo">
+<div class="page-width">
+<div class="site-footer__content">
+<div class="footerlogo">
+<a href="/"><img src="//www.buyyourdevice.co.za/cdn/shop/files/footer-logo_1024x1024.png?v=1634702571"/></a>
+</div><div class="site-footer__item site-footer__item--one-quarter">
+<div class="site-footer__item-inner site-footer__item-inner--link_list"><p class="h4">FIND FAST</p><ul class="site-footer__linklist"><li class="site-footer__linklist-item">
+<a href="/">
+                          Home
+                        </a>
+</li><li class="site-footer__linklist-item">
+<a href="/pages/about">
+                          About
+                        </a>
+</li><li class="site-footer__linklist-item">
+<a aria-current="page" href="/collections/all">
+                          Store
+                        </a>
+</li><li class="site-footer__linklist-item">
+<a href="/pages/faq">
+                          FAQ
+                        </a>
+</li><li class="site-footer__linklist-item">
+<a href="/pages/partners">
+                          Partners
+                        </a>
+</li><li class="site-footer__linklist-item">
+<a href="/pages/contact-us">
+                          Contact Us
+                        </a>
+</li></ul></div>
+</div><div class="site-footer__item site-footer__item--one-quarter">
+<div class="site-footer__item-inner site-footer__item-inner--link_list"><p class="h4">INFORMATION</p><ul class="site-footer__linklist"><li class="site-footer__linklist-item">
+<a href="/pages/help-form">
+                          Help
+                        </a>
+</li><li class="site-footer__linklist-item">
+<a href="/pages/privacy-policy">
+                          Privacy Policy
+                        </a>
+</li><li class="site-footer__linklist-item">
+<a href="/pages/return-requests">
+                          Return Requests
+                        </a>
+</li><li class="site-footer__linklist-item">
+<a href="/pages/terms-conditions">
+                           Terms &amp; Conditions
+                        </a>
+</li><li class="site-footer__linklist-item">
+<a href="/pages/delivery-policy">
+                          Delivery Policy
+                        </a>
+</li></ul></div>
+</div><div class="site-footer__item site-footer__item--one-quarter">
+<div class="site-footer__item-inner site-footer__item-inner--text"><p class="h4">CONTACT US</p><div class="site-footer__rte">
+<p><strong>Address:</strong><br/>456 Granite Drive,<br/>Kya Sands Business Park ,<br/>Kya Sands, Randburg<br/></p><p><strong>Telephone:</strong> 082 764 4232<br/><strong>Operating Hours:</strong> Mon – Fri 8am – 5pm</p><p></p>
+</div></div>
+</div><div class="site-footer__item site-footer__item--one-quarter">
+<div class="site-footer__item-inner site-footer__item-inner--newsletter"><p class="h4">Newsletter</p><div class="site-footer__newsletter"><form accept-charset="UTF-8" action="/contact#ContactFooter" class="contact-form" id="ContactFooter" method="post" novalidate="novalidate"><input name="form_type" type="hidden" value="customer"/><input name="utf8" type="hidden" value="✓"/>
+<input name="contact[tags]" type="hidden" value="newsletter"/>
+<div class="input-group">
+<input aria-label="Email address" aria-required="true" autocapitalize="off" autocorrect="off" class="input-group__field newsletter__input" id="ContactFooter-email" name="contact[email]" placeholder="Email address" required="" type="email" value=""/>
+<span class="input-group__btn">
+<button class="btn newsletter__submit" name="commit" type="submit">
+<span class="newsletter__submit-text--large">Subscribe</span>
+</button>
+</span>
+</div>
+</form>
+</div></div>
+</div></div>
+</div>
+<!--   <hr class="site-footer__hr"> --><div class="page-width">
+<div class="grid grid--no-gutters small--text-center grid--footer-float-right"><div class="grid__item small--hide one-half"></div><div class="grid__item small--one-whole site-footer-item-tall"><div class="small--hide site-footer-item-align-right">
+<small class="site-footer__copyright-content">© 2026, <a href="/" title="">BuyYourDevice</a></small>
+<small class="site-footer__copyright-content site-footer__copyright-content-powered-by"><a href="https://www.shopify.com?utm_campaign=poweredby&amp;utm_medium=shopify&amp;utm_source=onlinestore" rel="nofollow" target="_blank">Powered by Shopify</a></small>
+</div></div><div class="grid__item medium-up--hide one-half small--one-whole"></div><div class="grid__item small--one-whole medium-up--hide site-footer-item-align-right">
+<small class="site-footer__copyright-content">© 2026, <a href="/" title="">BuyYourDevice</a></small>
+<small class="site-footer__copyright-content site-footer__copyright-content--powered-by"><a href="https://www.shopify.com?utm_campaign=poweredby&amp;utm_medium=shopify&amp;utm_source=onlinestore" rel="nofollow" target="_blank">Powered by Shopify</a></small>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<div aria-hidden="true" class="visually-hidden" id="slideshow-info">Use left/right arrows to navigate the slideshow or swipe left/right if using a mobile device</div>
+</div>
+
+<ul hidden="">
+<li id="a11y-refresh-page-message">Choosing a selection results in a full page refresh.</li>
+<li id="a11y-selection-message">Press the space key then arrow keys to make a selection.</li>
+</ul>
+<a class="back-to-top hide" href="#" id="BackToTop" title="Back to the top">
+<i class="fa fa-angle-up"></i>
+</a>
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css" media="all" rel="stylesheet" type="text/css"/>
+
+
+<div class="shopify-block shopify-app-block" id="shopify-block-ANWk3VXE0N3BIWEMvV__11349500561483629931">
+
+
+</div>
+</body>
+</html>
